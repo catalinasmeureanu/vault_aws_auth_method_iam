@@ -9,6 +9,10 @@ Terraform v1.0.3
 
 * export AWS credentials
 
+* give permission
+
+`chmod +x script.sh`
+
 * run the script
 
-./scrip.sh
+`./script.sh`
